@@ -1,0 +1,13 @@
+Objects - unordered key value pairs
+work well when you dont need order
+work well when you need fast access / insertion and removal.
+
+insertion - constant O(1)
+removal - constant O(1)
+access - constant O(1)
+Searching - O(N) (without a key/looping over to check for a piece of information)
+
+Object.keys - O(N)
+Object.values - O(N)
+Object.entries - O(N)
+hasOwnProperty - O(1)

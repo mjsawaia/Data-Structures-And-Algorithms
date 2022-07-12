@@ -1,0 +1,8 @@
+Ordered lists - use when you need order
+when you need fast access / insertion and removal (sort of...)
+
+Insertion & Removal - adding to beginning causes reindexing of all elements. 
+    .push()/.pop() = O(1)
+    .shift()/.unshift() = O(N)
+Searching - O(N)
+Access - O(1)
