@@ -1,0 +1,17 @@
+Ordered lists - use when you need order
+when you need fast access / insertion and removal (sort of...)
+
+Insertion & Removal - adding to beginning causes reindexing of all elements. 
+    .push()/.pop() = O(1)
+    .shift()/.unshift() = O(N)
+Searching - O(N)
+Access - O(1)
+
+Built in Array Methods:
+concat - O(N)
+slice - O(N)
+splice - O(N)
+sort - O(N * log N)
+forEach/map/filter/reducer etc. - O(N)
+
+really just think about whether or not it will cause reindexing of the array. if so, likely O(N) (except sorting). if not, likely O(1)

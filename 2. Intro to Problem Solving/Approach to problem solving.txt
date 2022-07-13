@@ -1,0 +1,30 @@
+What is an algorithm? - Process or set of steps to accomplish a certain task.
+
+Devise a plan for solving problems:
+1. Understand the problem
+    - Can I restate the problem in my own words?
+    - What are the inputs that go into the problem?
+    - What are the outputs that should come from the solution?
+    - Can the outputs be determined from the inputs? (do i have enough info)
+    - How to label the important pieces of data that are a part of the problem. 
+2. Explore Concrete Examples
+    - Start with simple examples
+    - Progerss to more complex examples
+    - Edge cases - invalid or empty inpust
+3. Break It Down
+    - Write down the steps you need to take
+    - pseudo code or written instructions for what you need to do
+4. Solve/Simplify
+    - solve the problem if you can - if you cant, solve a simpler problem. 
+    - find the core difficulty in what you're trying to do
+    - Temporarily ignore that difficulty
+    - write a simplified solution
+    - then incorporate that difficulty back in
+5. Look Back and Refactor
+    - Can you check the result?
+    - Can you derive the result differently?
+    - can you understand it at a glance?
+    - Can yo use the result or method for some other problem?
+    - Can you improve the performance?
+    - Can you think of other ways to refactor?
+    - How have other people solved this problem?
