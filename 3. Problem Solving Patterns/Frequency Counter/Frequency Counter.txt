@@ -1,0 +1,1 @@
+Frequency counter uses objects to sets to collect values/frequencies of values. Can often avoid the need for nested loops (O(N^2)) operations with arrays / strings. 
