@@ -1,0 +1,5 @@
+Divide and conquer involves dividing a data set into smaller chunks then repeating a precess with a subset of data. 
+
+This pattern can greatly decrease time complexity.
+
+--- More examples of this is the sorting sectioins
